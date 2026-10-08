@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 .odd {
     background-color: rgb(253, 190, 201);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 .oddbigger {
     background-color: rgb(249, 187, 198);
